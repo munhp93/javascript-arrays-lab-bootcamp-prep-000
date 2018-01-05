@@ -18,6 +18,6 @@ function destructivelyRemoveFirstKitten(){
   return [kittens];
 }
 function appendKitten(name){
-var new arr=  appendKitten("Broom");
-  return "new arr"
+var new =  appendKitten("Broom");
+  return new
 }
