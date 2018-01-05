@@ -1,3 +1,5 @@
 const app = "I don't do much."
 var kittens=('Milo','Otis','Garfield');
-appendKitten();
+function destructivelyAppendKitten(name){
+  appendKitten("Ralph");
+}
